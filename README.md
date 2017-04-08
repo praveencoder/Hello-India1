@@ -1,2 +1,2 @@
 # Hello-India1
-Sample repository
+Sample repository created for GIthub learning
